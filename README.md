@@ -8,7 +8,7 @@ This project is an opportunity to collect online data to reveal the presence of 
 deserts on multiple socio-economic levels , and observe socio-economical tendencies
 such as heliotropism or coastalization.
 
-# Methodology
+## Methodology
 To answer the question, we first collected data from the Doctolib medical platform, and
 subsequently analysed the data. During this second part, we used some INSEE datasets in
 order to obtain relevant socio-economic information. We then brought together the
