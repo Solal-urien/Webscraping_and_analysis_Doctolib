@@ -1,0 +1,14 @@
+addictologue
+cancerologue
+chirurgien
+dermatologue
+dieteticien
+gynecologue
+infectiologue
+neurologue
+ophtalmologue
+pediatre
+pneumologue
+psychiatre
+radiologue
+rhumatologue
