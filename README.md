@@ -9,7 +9,7 @@ deserts on multiple socio-economic levels , and observe socio-economical tendenc
 such as heliotropism or coastalization.
 
 ## Methodology
-To answer the question, we first collected data from the Doctolib medical platform, and
+To answer the question, we first collected data from the Doctolib medical platform using the webscraping tool "BeautifulSoup", and
 subsequently analysed the data. During this second part, we used some INSEE datasets in
 order to obtain relevant socio-economic information. We then brought together the
 information to analyse the link between the aforementioned data and the distribution of
