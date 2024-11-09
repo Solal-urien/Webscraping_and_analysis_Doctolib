@@ -21,9 +21,7 @@ We used an online database providing the name of french towns and population, an
 selected the commune having more than 30,000 inhabitants. Indeed, the Doctolib website
 has the advantage of proposing results in an area around the selected city. Therefore, a
 significant number of municipalities uniformly distributed over France was enough to span
-the entire territory and allow collecting all the needed information. The Communes .txt
-document contains the list of the 200 biggest cities which have more than 30,000
-inhabitants. The data were collected on January 4 th , 2023. They were subsequently stored in
+the entire territory and allow collecting all the needed information. The data were collected on January 4 th , 2023. They were subsequently stored in
 .csv documents.
 The collection of our data was particularly complex. Indeed, repeated requests to the
 Doctolib website provoked a ban of the IP address from accessing the website via a bot (403
